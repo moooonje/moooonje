@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @moooonje
+- 👀 I’m interested in building rom
+- 🌱 I’m currently learning python, c, java
